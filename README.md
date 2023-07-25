@@ -1,2 +1,2 @@
 # Final
-It's just form My final project!
+It's just for My final project!
